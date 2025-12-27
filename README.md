@@ -1,6 +1,5 @@
 # Silly Violet's silly site
 
-[My github](https://github.com/silly-Violet)
 
 
 Topics:

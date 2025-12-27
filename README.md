@@ -1,3 +1,3 @@
-# Silly Violet's silly site for sharing silly thoughts
+# Silly Violet's silly site
 
-[testlink](https://silly-Violet.github.io/silly-Violet.github.io/FavSoftware/FavSoftware.html)
+[My favourite open source software](https://silly-Violet.github.io/silly-Violet.github.io/FavSoftware/FavSoftware.html)

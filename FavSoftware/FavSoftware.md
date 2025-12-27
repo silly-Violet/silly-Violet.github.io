@@ -1,5 +1,6 @@
 # My Favourite Open Source Software
 
+<br/>  
 
 - GUI Programs
 
@@ -8,6 +9,7 @@
   <img width="16" height="16" alt="LocalSend Icon" src="https://github.com/user-attachments/assets/63ac3a03-d4af-4407-bb48-ee6094f798f6"/> [LocalSend](https://localsend.org/) ([Github](https://github.com/localsend/localsend)) \- Send files easily over lan
 
   <img width="16" height="16" alt="LibreOffice Icon" src="https://github.com/user-attachments/assets/24e671c4-d05d-48ac-896d-107a993c0458"/> [LibreOffice](https://www.libreoffice.org/) ([Github](https://github.com/libreoffice)) \- Replacement for microsoft office/365 programs
+<br/>  
 
 - Terminal Programs
 

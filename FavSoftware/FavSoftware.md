@@ -1,1 +1,2 @@
-<img width="16" height="16" alt="VLC Icon" src="https://github.com/user-attachments/assets/71f4c8e7-9149-4171-b0fe-17708eda5097"/> [VLC Media Player](https://github.com/videolan/vlc) \- Will play almost any media file
+<img width="16" height="16" alt="VLC Icon" src="https://github.com/user-attachments/assets/71f4c8e7-9149-4171-b0fe-17708eda5097"/> [VLC Media Player](https://www.videolan.org/) ([Github](https://github.com/videolan/vlc)) \- Will play almost any media file  
+<img width="16" height="16" alt="LocalSend Icon" src="https://github.com/user-attachments/assets/89de6aca-1744-47dc-b508-46bae4d891f1" /> [LocalSend](https://localsend.org/) ([Github](https://github.com/localsend/localsend)) \- Send files easily over lan
